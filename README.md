@@ -28,5 +28,5 @@ Build & Run Commands:
   make run_server
 
 # Images
-![OpenStreetMaps Visualization](CS251-Project-6-OpenStreetMaps-Image.png)
+![OpenStreetMaps Visualization](CS251-Project-6-OpenStreetMaps-Image.jpg)
   
