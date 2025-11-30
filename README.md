@@ -16,7 +16,6 @@ Test Commands:
   make test_build_graph  
   make test_dijkstra  
 
-
 Build & Run Commands:  
   # Build tests  
   make osm_tests  
@@ -26,4 +25,8 @@ Build & Run Commands:
   make run_main  
 
 # Run local visualization server  
-  make run_server  
+  make run_server
+
+# Images
+![OpenStreetMaps Visualization](CS251-Project-6-OpenStreetMaps-Image.png)
+  
