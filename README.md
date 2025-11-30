@@ -11,8 +11,8 @@ Project Structure:
   dist.h # calculates distance
   server.cpp # local web server for visualization
 
-Test Commands:  
-  make test_graph  
+Test Commands: # verify graph integrity, data parsing, path correctness
+  make test_graph
   make test_build_graph  
   make test_dijkstra  
 
@@ -21,12 +21,13 @@ Build & Run Commands:
   make osm_tests  
   make test_all  
 
-# Run terminal-based path finder  
+  # Run terminal-based path finder  
   make run_main  
 
-# Run local visualization server  
+  # Run local visualization server  
   make run_server
 
 # Images
+Case: Shortest Path from 'Student Recreation Facility' to Richard J. Daley Library'
 ![OpenStreetMaps Visualization](CS251-Project-6-OpenStreetMaps-Image.jpg)
   
